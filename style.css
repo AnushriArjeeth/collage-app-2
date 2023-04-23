@@ -1,0 +1,23 @@
+body
+{
+    background-color: rgb(190, 171, 165);
+}
+
+h1
+{
+    font-family: Arial;
+    font-weight:800 ;
+}
+
+#camera
+{
+    width:500px;
+    height:400px;
+    border-color: rgb(0, 0, 0);
+}
+
+img
+{
+  border-color: blueviolet;
+}
+
